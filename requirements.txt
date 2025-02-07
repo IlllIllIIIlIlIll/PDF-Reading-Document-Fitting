@@ -1,0 +1,7 @@
+pdfplumber
+pandas
+multiprocessing
+ocrmypdf
+openpyxl
+xlsxwriter
+pdf2image
